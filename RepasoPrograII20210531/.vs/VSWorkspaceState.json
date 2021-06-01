@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Application",
+    "\\Application\\bin",
+    "\\Application\\bin\\Release",
+    "\\Application\\Exceptions",
+    "\\Application\\Helpers",
+    "\\Application\\obj",
+    "\\Application\\Properties",
+    "\\Application\\Repositories",
+    "\\packages"
+  ],
+  "SelectedNode": "\\RepasoPrograII20210531.sln",
+  "PreviewInSolutionExplorer": false
+}
